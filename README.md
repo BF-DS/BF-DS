@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=BF-DS&style=for-the-badge&abbreviated=true&color=blue)
 <!--
 **BF-DS/BF-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
