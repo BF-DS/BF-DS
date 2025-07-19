@@ -1,7 +1,9 @@
 ## Hi there 👋
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=BF-DS&style=for-the-badge&abbreviated=true&color=blue" /></p> 
 
-![](https://komarev.com/ghpvc/?username=BF-DS&style=for-the-badge&abbreviated=true&color=blue)
 <!--
+![](https://komarev.com/ghpvc/?username=BF-DS&style=for-the-badge&abbreviated=true&color=blue)
+
 **BF-DS/BF-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
