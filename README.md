@@ -1,10 +1,7 @@
-##############################################
- __        __   _                             
- \ \      / /__| | ___ ___  _ __ ___   ___  
-  \ \ /\ / / _ \ |/ __/ _ \| '_ \ _ \ / _ \  
-   \ V  V /  __/ | (_| (_) | | | | | |  __/  
-    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|                                              
-##############################################
+<h1 align="center">👋 Welcome to My GitHub!</h1>
+<p align="center">
+  📊 Data Science | 🤖 Machine Learning | 🧠 AI  
+</p>
             
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=BF-DS&style=for-the-badge&abbreviated=true&color=blue" /></p> 
 
